@@ -1,3 +1,9 @@
+@import "screens/login-screen.css";
+@import "components/variable.css";
+@import "screens/signup-screen.css";
+
+
+
 body {
     font-family: 'Saira Condensed', sans-serif;
 }
